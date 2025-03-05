@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brands on Fusing</title>
-    <link>https://example.com/blog/</link>
+    <link>https://jarynote.cn/blog/</link>
     <description>Recent content in Brands on Fusing</description>
     <generator>Hugo</generator>
     <language>zh</language>
     <copyright>上述产品为本公司所有，具有最终解释权</copyright>
     <lastBuildDate>Tue, 04 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jarynote.cn/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>恩智浦半导体(NXP)</title>
-      <link>https://example.com/blog/emoji-support/</link>
+      <link>https://jarynote.cn/blog/emoji-support/</link>
       <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/emoji-support/</guid>
+      <guid>https://jarynote.cn/blog/emoji-support/</guid>
       <description>&lt;p&gt;NXP Semiconductors N.V.（纳斯达克代码：NXPI）是一家领先的全球半导体公司，专注于智能边缘系统的开发。&lt;/p&gt;</description>
     </item>
     <item>
       <title>意法半导体(ST)</title>
-      <link>https://example.com/blog/math-typesetting/</link>
+      <link>https://jarynote.cn/blog/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/math-typesetting/</guid>
+      <guid>https://jarynote.cn/blog/math-typesetting/</guid>
       <description>&lt;p&gt;意法半导体(ST) 是全球领先的半导体设计与制造企业。创新涵盖STM32系列微控制器MCU、微处理器MPU、碳化硅SiC、氮化镓GaN等先进技术,覆盖智能电源技术、边缘人工智能、微机电系统MEMS等多个领域。&lt;/p&gt;</description>
     </item>
   </channel>
