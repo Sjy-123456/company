@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fusing</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Fusing</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <copyright>上述产品为本公司所有，具有最终解释权</copyright>
+    <lastBuildDate>Tue, 04 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C255</title>
+      <link>https://example.com/products/c255/</link>
+      <pubDate>Sun, 02 Mar 2025 21:57:50 +0800</pubDate>
+      <guid>https://example.com/products/c255/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://example.com/img/posts/C255.png&#34; alt=&#34;替代文本&#34; title=&#34;C255&#34;&gt;&#xA;支持5V VCC运行&lt;/p&gt;&#xA;&lt;p&gt;输入接受电压高达5.5V&lt;/p&gt;&#xA;&lt;p&gt;提供向下转换，至VCC&lt;/p&gt;&#xA;&lt;p&gt;3.3V时，最大传播延迟时间3.7ns&lt;/p&gt;&#xA;&lt;p&gt;低功耗，最大10?A ICC&lt;/p&gt;&#xA;&lt;p&gt;3.3V，±24mA输出驱动&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>STM8S</title>
+      <link>https://example.com/products/example/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      <guid>https://example.com/products/example/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://example.com/img/posts/STM8S.png&#34; alt=&#34;替代文本&#34; title=&#34;STM8S&#34;&gt;STM8S 系列是意法半导体（STMicroelectronics）推出的一款高性能8位微控制器系列，广泛应用于工业、消费电子及计算机市场中的各类场景。该系列基于专有的STM8内核设计，得益于意法半导体先进的130纳米工艺技术，即使在24MHz的工作频率下，也能提供高达20MIPS的强大处理能力。此外，该系列内置了EEPROM存储器和RC振荡器，并且配备了丰富的I/O端口和高性能嵌入式外设，这些特性使其在市场上脱颖而出。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TJA1044</title>
+      <link>https://example.com/products/example-copy/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      <guid>https://example.com/products/example-copy/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://example.com/img/posts/TJA1044.png&#34; alt=&#34;替代文本&#34; title=&#34;TJA1044&#34;&gt;TJA1044 是 NXP（恩智浦半导体）推出的一款高性能高速 CAN 收发器，属于 Mantis 系列。它在汽车行业中广泛应用于高速 CAN 总线通信，提供差分发送和接收能力，支持与 CAN 协议控制器的接口。TJA1044 在 NXP 的第一代和第二代 CAN 收发器（如 TJA1040 和 TJA1042）的基础上进行了显著改进，具有出色的电磁兼容性（EMC）性能，并针对 12V 汽车应用进行了优化。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>恩智浦半导体(NXP)</title>
+      <link>https://example.com/blog/emoji-support/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/blog/emoji-support/</guid>
+      <description>&lt;p&gt;NXP Semiconductors N.V.（纳斯达克代码：NXPI）是一家领先的全球半导体公司，专注于智能边缘系统的开发。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>https://example.com/test/</link>
+      <pubDate>Sun, 02 Mar 2025 21:45:04 +0800</pubDate>
+      <guid>https://example.com/test/</guid>
+      <description>&lt;p&gt;jjjjjjjjjj&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>意法半导体(ST)</title>
+      <link>https://example.com/blog/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/blog/math-typesetting/</guid>
+      <description>&lt;p&gt;意法半导体(ST) 是全球领先的半导体设计与制造企业。创新涵盖STM32系列微控制器MCU、微处理器MPU、碳化硅SiC、氮化镓GaN等先进技术,覆盖智能电源技术、边缘人工智能、微机电系统MEMS等多个领域。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/about/</guid>
+      <description>&lt;p&gt;欢迎来到 [公司名称]，您值得信赖的电子芯片解决方案提供商！我们专注于为全球客户提供高性能、高可靠性的电子芯片及相关技术服务，致力于推动科技创新与产业升级。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://example.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/contact/</guid>
+      <description>&lt;p&gt;To contact us, please fill out the form below.&lt;/p&gt;&#xA;&lt;form name=&#34;contact&#34; action=&#34;https://getform.io/&#34; method=&#34;POST&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;input&#34;&gt;&#xD;&#xA;        &lt;input type=&#34;text&#34; placeholder=&#34;Name&#34; name=&#34;name&#34; class=&#34;p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500&#34; required&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;div class=&#34;input&#34;&gt;&#xD;&#xA;        &lt;input type=&#34;text&#34; placeholder=&#34;Email&#34; name=&#34;mail&#34; class=&#34;p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500&#34; required&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;div class=&#34;input&#34;&gt;&#xD;&#xA;        &lt;input type=&#34;text&#34; placeholder=&#34;Title&#34; name=&#34;title&#34; class=&#34;p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500&#34; required&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;div class=&#34;input&#34;&gt;&#xD;&#xA;        &lt;textarea rows=&#34;5&#34; cols=&#34;30&#34; placeholder=&#34;Message&#34; name=&#34;message&#34; class=&#34;p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500&#34; required&gt;&lt;/textarea&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;input type=&#34;submit&#34; value=&#34;Submit&#34; class=&#34;px-8 py-2 duration-200 bg-gray-800 text-white cursor-pointer transition-colors hover:bg-gray-400&#34;&gt;&#xD;&#xA;&lt;/form&gt;</description>
+    </item>
+  </channel>
+</rss>
