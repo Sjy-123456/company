@@ -6,8 +6,8 @@
     <description>Recent content on Fusing</description>
     <generator>Hugo</generator>
     <language>zh</language>
-    <copyright>上述产品为本公司所有，具有最终解释权</copyright>
-    <lastBuildDate>Tue, 04 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <copyright>上述所有内容本公司具有最终解释权</copyright>
+    <lastBuildDate>Thu, 06 Mar 2025 15:52:36 +0800</lastBuildDate>
     <atom:link href="https://jarynote.cn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C255</title>
@@ -31,11 +31,32 @@
       <description>&lt;p&gt;&lt;img src=&#34;https://jarynote.cn/img/posts/TJA1044.png&#34; alt=&#34;替代文本&#34; title=&#34;TJA1044&#34;&gt;TJA1044 是 NXP（恩智浦半导体）推出的一款高性能高速 CAN 收发器，属于 Mantis 系列。它在汽车行业中广泛应用于高速 CAN 总线通信，提供差分发送和接收能力，支持与 CAN 协议控制器的接口。TJA1044 在 NXP 的第一代和第二代 CAN 收发器（如 TJA1040 和 TJA1042）的基础上进行了显著改进，具有出色的电磁兼容性（EMC）性能，并针对 12V 汽车应用进行了优化。&lt;/p&gt;</description>
     </item>
     <item>
-      <title>恩智浦半导体(NXP)</title>
-      <link>https://jarynote.cn/blog/emoji-support/</link>
-      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://jarynote.cn/blog/emoji-support/</guid>
-      <description>&lt;p&gt;NXP Semiconductors N.V.（纳斯达克代码：NXPI）是一家领先的全球半导体公司，专注于智能边缘系统的开发。&lt;/p&gt;</description>
+      <title>TI</title>
+      <link>https://jarynote.cn/blog/ti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jarynote.cn/blog/ti/</guid>
+      <description>&lt;p&gt;德州仪器 (TI) 是一家全球化半导体设计与制造企业，凭借 80,000+ 模拟 IC 与嵌入式处理器产品、各类软件以及最大规模的销售和技术支持不断开拓创新。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ADI</title>
+      <link>https://jarynote.cn/blog/adi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jarynote.cn/blog/adi/</guid>
+      <description>&lt;p&gt;亚德诺半导体技术有限公司（Analog Devices, Inc.，简称ADI）是一家全球领先的半导体公司，成立于1965年，总部位于美国马萨诸塞州诺伍德市，在纳斯达克上市。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MICROCHIP</title>
+      <link>https://jarynote.cn/blog/microchip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jarynote.cn/blog/microchip/</guid>
+      <description>&lt;p&gt;Microchip Technology Incorporated（美国微芯科技公司）是一家专注于智能、互联和安全的嵌入式控制与处理解决方案的领先供应商。&lt;/p&gt;&#xA;&lt;p&gt;其产品组合丰富，涵盖微控制器（如PIC和dsPIC设备、AVR和SAM）、串行存储器、模拟产品、无线和有线通信设备等。Microchip的解决方案服务于工业、汽车、消费、航天和国防、通信以及计算市场中超过12万家客户。公司总部位于美国亚利桑那州钱德勒市，以出色的技术支持、可靠的产品交付和卓越的质量著称。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>STM32F407</title>
+      <link>https://jarynote.cn/products/stm32f407/</link>
+      <pubDate>Thu, 06 Mar 2025 15:52:36 +0800</pubDate>
+      <guid>https://jarynote.cn/products/stm32f407/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://jarynote.cn/img/posts/STM32F407.jpg&#34; alt=&#34;替代文本&#34; title=&#34;STM32FF407&#34;&gt;STM32F407/417系列面向需要在小至10 x 10 mm的封装内实现高集成度、高性能、嵌入式存储器和外设的医疗、工业与消费类应用。STM32F407/417提供了工作频率为168 MHz的Cortex™-M4内核（具有浮点单元）的性能。&#xA;性能：在168 MHz频率下，从Flash存储器执行时，STM32F407/417能够提供210 DMIPS/566 CoreMark性能，并且利用意法半导体的ART加速器实现了FLASH零等待状态。DSP指令和浮点单元扩大了产品的应用范围。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Test</title>
@@ -45,25 +66,39 @@
       <description>&lt;p&gt;jjjjjjjjjj&lt;/p&gt;</description>
     </item>
     <item>
-      <title>意法半导体(ST)</title>
-      <link>https://jarynote.cn/blog/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jarynote.cn/blog/math-typesetting/</guid>
-      <description>&lt;p&gt;意法半导体(ST) 是全球领先的半导体设计与制造企业。创新涵盖STM32系列微控制器MCU、微处理器MPU、碳化硅SiC、氮化镓GaN等先进技术,覆盖智能电源技术、边缘人工智能、微机电系统MEMS等多个领域。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About</title>
+      <title>关于</title>
       <link>https://jarynote.cn/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://jarynote.cn/about/</guid>
-      <description>&lt;p&gt;欢迎来到 [公司名称]，您值得信赖的电子芯片解决方案提供商！我们专注于为全球客户提供高性能、高可靠性的电子芯片及相关技术服务，致力于推动科技创新与产业升级。&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://jarynote.cn/img/slide/about_banner.jpg&#34; alt=&#34;替代文本&#34; title=&#34;富盛&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;欢迎来到 富盛半导体科技(香港)有限公司，您值得信赖的电子芯片解决方案提供商！我们专注于为全球客户提供高性能、高可靠性的电子芯片及相关技术服务，致力于推动科技创新与产业升级。&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Contact</title>
+      <title>Infineon</title>
+      <link>https://jarynote.cn/blog/infineon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jarynote.cn/blog/infineon/</guid>
+      <description>&lt;p&gt;英飞凌科技股份公司（Infineon Technologies AG）是一家全球领先的半导体公司，成立于1999年，总部位于德国慕尼黑，其前身是西门子集团的半导体部门。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>恩智浦半导体(NXP)</title>
+      <link>https://jarynote.cn/blog/emoji-support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jarynote.cn/blog/emoji-support/</guid>
+      <description>&lt;p&gt;NXP Semiconductors N.V.（纳斯达克代码：NXPI）是一家领先的全球半导体公司，专注于智能边缘系统的开发。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>联系</title>
       <link>https://jarynote.cn/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://jarynote.cn/contact/</guid>
-      <description>&lt;p&gt;To contact us, please fill out the form below.&lt;/p&gt;&#xA;&lt;form name=&#34;contact&#34; action=&#34;https://getform.io/&#34; method=&#34;POST&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;input&#34;&gt;&#xD;&#xA;        &lt;input type=&#34;text&#34; placeholder=&#34;Name&#34; name=&#34;name&#34; class=&#34;p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500&#34; required&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;div class=&#34;input&#34;&gt;&#xD;&#xA;        &lt;input type=&#34;text&#34; placeholder=&#34;Email&#34; name=&#34;mail&#34; class=&#34;p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500&#34; required&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;div class=&#34;input&#34;&gt;&#xD;&#xA;        &lt;input type=&#34;text&#34; placeholder=&#34;Title&#34; name=&#34;title&#34; class=&#34;p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500&#34; required&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;div class=&#34;input&#34;&gt;&#xD;&#xA;        &lt;textarea rows=&#34;5&#34; cols=&#34;30&#34; placeholder=&#34;Message&#34; name=&#34;message&#34; class=&#34;p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500&#34; required&gt;&lt;/textarea&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;input type=&#34;submit&#34; value=&#34;Submit&#34; class=&#34;px-8 py-2 duration-200 bg-gray-800 text-white cursor-pointer transition-colors hover:bg-gray-400&#34;&gt;&#xD;&#xA;&lt;/form&gt;</description>
+      <description>&lt;!DOCTYPE html&gt;&#xD;&#xA;&lt;html lang=&#34;zh-CN&#34;&gt;&#xD;&#xA;&#xD;&#xA;&lt;head&gt;&#xD;&#xA;    &lt;meta charset=&#34;UTF-8&#34;&gt;&#xD;&#xA;    &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt;&#xD;&#xA;    &lt;title&gt;图片和文字在同一行&lt;/title&gt;&#xD;&#xA;    &lt;style&gt;&#xD;&#xA;        .container {&#xD;&#xA;            display: flex;&#xD;&#xA;            align-items: center;&#xD;&#xA;            gap: 10px;&#xD;&#xA;            background-color: #f0f0f0;&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        .image {&#xD;&#xA;            width: 40%;&#xD;&#xA;            height: auto;&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        .glip {&#xD;&#xA;            width: 5%;&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        .text {&#xD;&#xA;            margin: 0;&#xD;&#xA;        }&#xD;&#xA;    &lt;/style&gt;&#xD;&#xA;&lt;/head&gt;&#xD;&#xA;&#xD;&#xA;&lt;body&gt;&#xD;&#xA;    &lt;div class=&#34;container&#34;&gt;&#xD;&#xA;        &lt;div class=&#34;glip&#34;&gt;&lt;/div&gt;&#xD;&#xA;        &lt;img src=&#34;https://jarynote.cn/img/slide/company.png&#34; alt=&#34;中国深圳&#34; class=&#34;image&#34;&gt;&#xD;&#xA;        &lt;div class=&#34;glip&#34;&gt;&lt;/div&gt;&#xD;&#xA;        &lt;div&gt;&#xD;&#xA;            &lt;p class=&#34;text&#34;&gt;中国深圳&lt;/p&gt;&#xD;&#xA;            &lt;p class=&#34;text&#34;&gt;公司名称：富盛半导体体科技(香港)有限公司&lt;/p&gt;&#xD;&#xA;            &lt;p class=&#34;text&#34;&gt;公司地址： 广东省深圳市福田区振华路东方时代B座2913&lt;/p&gt;&#xD;&#xA;            &lt;p class=&#34;text&#34;&gt;销售热线1： +（86）13713666070&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>意法半导体(ST)</title>
+      <link>https://jarynote.cn/blog/math-typesetting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jarynote.cn/blog/math-typesetting/</guid>
+      <description>&lt;p&gt;意法半导体(ST) 是全球领先的半导体设计与制造企业。创新涵盖STM32系列微控制器MCU、微处理器MPU、碳化硅SiC、氮化镓GaN等先进技术,覆盖智能电源技术、边缘人工智能、微机电系统MEMS等多个领域。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

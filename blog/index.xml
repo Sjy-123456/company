@@ -1,25 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Brands on Fusing</title>
+    <title>品牌 on Fusing</title>
     <link>https://jarynote.cn/blog/</link>
-    <description>Recent content in Brands on Fusing</description>
+    <description>Recent content in 品牌 on Fusing</description>
     <generator>Hugo</generator>
     <language>zh</language>
-    <copyright>上述产品为本公司所有，具有最终解释权</copyright>
-    <lastBuildDate>Tue, 04 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <copyright>上述所有内容本公司具有最终解释权</copyright>
     <atom:link href="https://jarynote.cn/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TI</title>
+      <link>https://jarynote.cn/blog/ti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jarynote.cn/blog/ti/</guid>
+      <description>&lt;p&gt;德州仪器 (TI) 是一家全球化半导体设计与制造企业，凭借 80,000+ 模拟 IC 与嵌入式处理器产品、各类软件以及最大规模的销售和技术支持不断开拓创新。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ADI</title>
+      <link>https://jarynote.cn/blog/adi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jarynote.cn/blog/adi/</guid>
+      <description>&lt;p&gt;亚德诺半导体技术有限公司（Analog Devices, Inc.，简称ADI）是一家全球领先的半导体公司，成立于1965年，总部位于美国马萨诸塞州诺伍德市，在纳斯达克上市。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MICROCHIP</title>
+      <link>https://jarynote.cn/blog/microchip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jarynote.cn/blog/microchip/</guid>
+      <description>&lt;p&gt;Microchip Technology Incorporated（美国微芯科技公司）是一家专注于智能、互联和安全的嵌入式控制与处理解决方案的领先供应商。&lt;/p&gt;&#xA;&lt;p&gt;其产品组合丰富，涵盖微控制器（如PIC和dsPIC设备、AVR和SAM）、串行存储器、模拟产品、无线和有线通信设备等。Microchip的解决方案服务于工业、汽车、消费、航天和国防、通信以及计算市场中超过12万家客户。公司总部位于美国亚利桑那州钱德勒市，以出色的技术支持、可靠的产品交付和卓越的质量著称。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Infineon</title>
+      <link>https://jarynote.cn/blog/infineon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jarynote.cn/blog/infineon/</guid>
+      <description>&lt;p&gt;英飞凌科技股份公司（Infineon Technologies AG）是一家全球领先的半导体公司，成立于1999年，总部位于德国慕尼黑，其前身是西门子集团的半导体部门。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>恩智浦半导体(NXP)</title>
       <link>https://jarynote.cn/blog/emoji-support/</link>
-      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://jarynote.cn/blog/emoji-support/</guid>
       <description>&lt;p&gt;NXP Semiconductors N.V.（纳斯达克代码：NXPI）是一家领先的全球半导体公司，专注于智能边缘系统的开发。&lt;/p&gt;</description>
     </item>
     <item>
       <title>意法半导体(ST)</title>
       <link>https://jarynote.cn/blog/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://jarynote.cn/blog/math-typesetting/</guid>
       <description>&lt;p&gt;意法半导体(ST) 是全球领先的半导体设计与制造企业。创新涵盖STM32系列微控制器MCU、微处理器MPU、碳化硅SiC、氮化镓GaN等先进技术,覆盖智能电源技术、边缘人工智能、微机电系统MEMS等多个领域。&lt;/p&gt;</description>
     </item>
