@@ -59,11 +59,39 @@
       <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/posts/STM32F407.jpg&#34; alt=&#34;替代文本&#34; title=&#34;STM32FF407&#34;&gt;STM32F407/417系列面向需要在小至10 x 10 mm的封装内实现高集成度、高性能、嵌入式存储器和外设的医疗、工业与消费类应用。STM32F407/417提供了工作频率为168 MHz的Cortex™-M4内核（具有浮点单元）的性能。&#xA;性能：在168 MHz频率下，从Flash存储器执行时，STM32F407/417能够提供210 DMIPS/566 CoreMark性能，并且利用意法半导体的ART加速器实现了FLASH零等待状态。DSP指令和浮点单元扩大了产品的应用范围。&lt;/p&gt;</description>
     </item>
     <item>
+      <title>GDQ4EE2119</title>
+      <link>http://localhost:1313/products/gdq4ee2119/</link>
+      <pubDate>Thu, 06 Mar 2025 15:47:17 +0800</pubDate>
+      <guid>http://localhost:1313/products/gdq4ee2119/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Test</title>
       <link>http://localhost:1313/test/</link>
       <pubDate>Sun, 02 Mar 2025 21:45:04 +0800</pubDate>
       <guid>http://localhost:1313/test/</guid>
       <description>&lt;p&gt;jjjjjjjjjj&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>http://localhost:1313/blog/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rich Content</title>
+      <link>http://localhost:1313/blog/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Placeholder Text</title>
+      <link>http://localhost:1313/blog/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>关于</title>
